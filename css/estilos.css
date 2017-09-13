@@ -5,3 +5,13 @@ selectores
 	identificador ejem. #id
 	clases ejem. .class 
 media queries - diseño adaptativo	
+
+body{
+	background: blue;
+	/*#1A45AB;*/
+	/*rgba(34,56,2,1);*/
+	/*rgb(101,101,101);*/
+	color: white;
+	with: 1024px;
+
+}
