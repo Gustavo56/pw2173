@@ -2,7 +2,8 @@ body{
 
 }
 header nav {
-background: orange
+background: orange;
+border-radius: 50px;
 }
 header nav ul li{
 display: inline-block;
