@@ -1,0 +1,10 @@
+body{
+
+}
+header nav {
+background: orange
+}
+header nav ul li{
+display: inline-block;
+padding-left: 20px;
+}
