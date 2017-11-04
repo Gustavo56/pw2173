@@ -1,0 +1,67 @@
+body section{
+background: #2f2f2f;
+}
+
+header img{
+	width: 1529px;
+	height: 80px;
+    margin-top: -5px;
+    margin-right: 20px;
+    float: right;
+
+}
+
+#sec01{
+margin-top: 120px;
+
+}
+
+#sec01 article{
+
+}
+
+#art05sec01{
+	width: 385px;
+	height: 522px;
+	float: right;
+	background: #e3e3e3;
+	margin-top: -250px;
+	
+}
+#art04sec01{
+	width: 385px;
+	height: 522px;
+	float: right;
+	background: #b63141;
+	margin-top: -250px;
+	
+}
+#art03sec01{
+	width: 385px;
+	height: 522px;
+	float: right;
+	background: #555;
+	margin-top: -250px;
+	color: gray;
+}
+#art02sec01{
+	width: 385px;
+	height: 522px;
+	float: right;
+	background: #bbcf5d;
+	margin-top: -250px;
+}
+#art01sec01{
+	color: gray;
+}
+
+.fuente{
+	color: white;
+}
+
+
+
+
+
+
+
