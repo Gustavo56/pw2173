@@ -11,7 +11,7 @@ var inicia = function(){
     	              data.results[0].name.last+"</marquee>");
     $("#foto").attr("src",data.results[0].picture.large);
 
-    $("#email").append(data.results[0].email+" ");
+    $("#email").html("<marquee> email: "+data.results[0].email+"</marquee>");
   }
 });
 	}
