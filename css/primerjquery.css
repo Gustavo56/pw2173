@@ -1,6 +1,6 @@
 body{
-	background: green;
-	width: 62%;
+		width: 62%;
+		background: green;
 }
 
 
@@ -9,5 +9,6 @@ body section button{
 	height: 80px;
 	background: red;
 	bottom:-800px;
+	float: center;
 
 }
