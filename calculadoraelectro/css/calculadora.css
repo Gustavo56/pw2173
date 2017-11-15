@@ -1,0 +1,20 @@
+body
+{
+	float: center;
+	margin:0, auto;
+	width: 500px; 
+
+}
+form table tr td input[type="button"]
+{
+background: orange;
+width: 60px;
+height: 30px;
+
+}
+form table tr td input[type=text]
+{
+	width: 250px;
+height: 30px;
+text-align: right;
+}
