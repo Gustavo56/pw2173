@@ -14,6 +14,7 @@ let PantallaPrincipal;
  		protocol: 'file',
  		slashes: true
  	}))
+ 	PantallaPrincipal.webContents.openDevTools();
  	PantallaPrincipal.show();
  }
 

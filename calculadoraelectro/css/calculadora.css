@@ -1,10 +1,12 @@
 body
 {
 	float: center;
-	margin:0, auto;
+	margin: 0 auto;
 	width: 500px; 
+	box-shadow: 10px,20px,30px,40px, green;
 
 }
+
 form table tr td input[type="button"]
 {
 background: orange;
@@ -12,6 +14,15 @@ width: 60px;
 height: 30px;
 
 }
+#btnCientifica{
+	background: orange;
+	color: black;
+	border-radius: 5px;
+	height: 50px;
+	width: 100px;
+}
+
+
 form table tr td input[type=text]
 {
 	width: 250px;
